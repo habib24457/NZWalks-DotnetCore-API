@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{5ED6BD22-59C1-4791-977C-9A91C11ABF6B}|https">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.NZWalks.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="NZWalks.API/Data/NZWalksDbContext.cs">
+    <Files>
+      <File FileName="NZWalks.API/Models/Domain/Difficulty.cs" Line="7" Column="52" />
+      <File FileName="NZWalks.API/Models/Domain/Region.cs" Line="10" Column="52" />
+      <File FileName="NZWalks.API/Models/Domain/Walk.cs" Line="18" Column="54" />
+      <File FileName="NZWalks.API/appsettings.Development.json" Line="10" Column="148" />
+      <File FileName="NZWalks.API/Program.cs" Line="3" Column="32" />
+      <File FileName="NZWalks.API/Controllers/RegionsController.cs" Line="110" Column="46" />
+      <File FileName="NZWalks.API/Models/DTO/RegionDTO.cs" Line="11" Column="6" />
+      <File FileName="NZWalks.API/Models/DTO/AddRegionRequestDto.cs" Line="8" Column="52" />
+      <File FileName="NZWalks.API/Models/DTO/UpdateRegionRequestDto.cs" Line="8" Column="1" />
+      <File FileName="NZWalks.API/Data/NZWalksDbContext.cs" Line="104" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NZWalks" expanded="True">
+            <Node name="NZWalks.API" expanded="True">
+              <Node name="Data" expanded="True">
+                <Node name="NZWalksDbContext.cs" selected="True" />
+              </Node>
+              <Node name="Migrations" expanded="True" />
+              <Node name="Repositories" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
